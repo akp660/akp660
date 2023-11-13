@@ -1,11 +1,11 @@
 ![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandey</h1>
-<h3 align="center">I am a Learner, Developer.</h3>
+<h3 align="center">I'm a Front-end Developer and UI/UX Designer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 - 👨‍💻 All of my projects are available at [https://akp660.github.io/My-Portfolio/](https://akp660.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Android, Html, Css, Xml.**
+- 💬 Ask me about **Android Development, Figma, XML, CSS, HTML.**
 
 - 📫 How to reach me **abhijeetpandey.dhn@gmail.com**
 
