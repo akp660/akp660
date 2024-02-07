@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC2X0sIY_AGvgi6jD8Eh_u8rOdZXKA6PP18tnJdA6jQxR-n4bF6vsIVI2D4FTOnHAlqSY5hJShEjHcRQr7P8QM-YyP3sM3Su_KxFRdBXhg8WUIoXr74luWfFvtgYGJHWdDe_gPnwpCsLR4YhE0U88QcSqrYs3LLjp7dGqQul_pRoerJr__-mD8lUPA/s1600/Android-IO22AndroidDevRecap_Social.png)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZiN3bQQ4calvOWU_sTfDqaTftuVlNig8A8AHX4VZ6AnaHCvOyyBzdoLn0J9euNrushfH58XYyNeO1OrWX0nCSM9ObtV7iXrnki6pNAi2KMA_g3oOKnaqQ73iw5spz4Yxh0PSYCwgMbJrYwaBdaRdLXmu7E3NqgrY7Gt0JIMx5TBON7aetYnQT5YfY/s1600/Group%202608045%20%281%29.png)
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandey</h1>
 <h3 align="center">I'm a Front-end Developer and <a href="https://dribbble.com/Akp660">UI/UX Designer.</a></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
