@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhijeetpandey.dhn@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Bwp0bk3SClmwYc-osJbjB0UHDAlsllRY3MuTRg2r7KE/edit?usp=sharing](https://docs.google.com/document/d/1Bwp0bk3SClmwYc-osJbjB0UHDAlsllRY3MuTRg2r7KE/edit?usp=sharing)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1Bwp0bk3SClmwYc-osJbjB0UHDAlsllRY3MuTRg2r7KE/edit?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
