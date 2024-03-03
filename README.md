@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Front-end Developer and <a href="https://dribbble.com/Akp660">UI/UX Designer.</a></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-- 👨‍💻 All of my projects are available at [https://akp660.github.io/My-Portfolio/](https://akp660.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at <a href="https://akp660.github.io/My-Portfolio/"> Portfolio </a>
 
 - 💬 Ask me about **Android Development, Figma, XML, CSS, HTML.**
 
