@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://akp660.github.io/My-Portfolio/"> Portfolio.</a>
 
-- 💬 Intreested In **Android Development, UI/UX Designing, IOT, Electronics.**
+- 💬 Intrested In    **Android Development, UI/UX Designing, IOT, Electronics.**
 
 - 📫 How to reach me **abhijeetpandey.dhn@gmail.com**
 
