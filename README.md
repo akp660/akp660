@@ -1,4 +1,3 @@
-
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0VEHBhtQU_6AvaaIhR1kCA.png)
 
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandey</h1>
