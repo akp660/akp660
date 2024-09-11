@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0VEHBhtQU_6AvaaIhR1kCA.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0VEHBhtQU_6AvaaIhR1kCA.png)  
 
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandey</h1>
 <h3 align="center">I'm a Front-end Developer and <a href="https://www.behance.net/abhijeetpandey6">UI/UX Designer.</a></h3>
