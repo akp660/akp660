@@ -25,9 +25,9 @@
 
 <!--- S H O W   M O R E --->
 
-<h4 align="center">
+<!--- <h4 align="center">
   <a href="https://github.com/akp660?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> ---> 
 
 <!--- G R E E T I N G   T E X T   A N D   I M A G E --->
 
