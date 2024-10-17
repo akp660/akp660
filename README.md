@@ -21,4 +21,48 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akp660&show_icons=true&locale=en&layout=compact" alt="akp660" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akp660&show_icons=true&locale=en" alt="akp660" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akp660&show_icons=true&locale=en" alt="akp660" /></p> 
+
+
+<!--- M Y   T O P   R E P O --->
+<p> 
+<h3 align="center">💾 REPOSITORIES 💾</h3>
+<br>
+<div width="100%" align="center">
+  <!--- Repo #1 --->
+  <a align="right" href="https://github.com/akp660/VITB" title="Food suggestion based on weather & menu."><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Foodico&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!--- Repo #2 --->
+  <a align="left" href="https://github.com/akp660/Ganpati_App" title="An Android App for local Priest Booking and many more..."><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Codeial-social-app&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <!--- Repo #3 --->
+  <a align="left" href="https://github.com/akp660/Travel-Saathi" title="An Android App for travel planning with strangers."><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Movie-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!--- Repo #4 --->
+  <a align="right" href="https://github.com/akp660/Data-Encryption" title="An Android App for Data Encryption"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=RNzone&theme=react&border_color=61dafb&border_radius=9"></a>
+</div>
+</p>
+<br><br><br><br><br><br>
+
+
+
+
+<!--- S H O W   M O R E --->
+
+<h4 align="center">
+  <a href="https://github.com/akp660?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<br>
+<br>
+
+<!--- G R E E T I N G   T E X T   A N D   I M A G E --->
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
