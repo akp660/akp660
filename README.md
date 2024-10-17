@@ -29,6 +29,10 @@
   <a href="https://github.com/akp660?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> ---> 
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=akp660&label=Profile%20views&color=0e75b6&style=flat" alt="akp660" />
+</div>
+
 <!--- G R E E T I N G   T E X T   A N D   I M A G E --->
 
 <div align="center">
