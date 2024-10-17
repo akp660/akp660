@@ -19,42 +19,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akp660&show_icons=true&locale=en&layout=compact" alt="akp660" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akp660&show_icons=true&locale=en" alt="akp660" /></p> 
 
-
-<!--- M Y   T O P   R E P O --->
-<p> 
-<h3 align="center">💾 REPOSITORIES 💾</h3>
-<br>
-<div width="100%" align="center">
-  <!--- Repo #1 --->
-  <a align="right" href="https://github.com/akp660/VITB" title="Food suggestion based on weather & menu."><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Foodico&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #2 --->
-  <a align="left" href="https://github.com/akp660/Ganpati_App" title="An Android App for local Priest Booking and many more..."><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Codeial-social-app&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <!--- Repo #3 --->
-  <a align="left" href="https://github.com/akp660/Travel-Saathi" title="An Android App for travel planning with strangers."><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=Movie-App&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #4 --->
-  <a align="right" href="https://github.com/akp660/Data-Encryption" title="An Android App for Data Encryption"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyarajpal12&repo=RNzone&theme=react&border_color=61dafb&border_radius=9"></a>
-</div>
-</p>
-<br><br><br><br><br><br>
-
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akp660&show_icons=true&locale=en&layout=compact" alt="akp660" /></p>
 
 <!--- S H O W   M O R E --->
 
 <h4 align="center">
   <a href="https://github.com/akp660?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-<br>
-<br>
 
 <!--- G R E E T I N G   T E X T   A N D   I M A G E --->
 
@@ -63,6 +36,3 @@
         <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
     </a>
 </div>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
