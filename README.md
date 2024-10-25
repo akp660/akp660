@@ -1,5 +1,3 @@
-[![An image of @akp660's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akp660)](https://holopin.io/@akp660)
-
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0VEHBhtQU_6AvaaIhR1kCA.png)  
 
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Pandey</h1>
@@ -42,3 +40,5 @@
         <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
     </a>
 </div>
+
+[![An image of @akp660's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akp660)](https://holopin.io/@akp660)
