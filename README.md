@@ -42,5 +42,6 @@
 </div>
 <br>
 <br>
-
+<p>
 [![An image of @akp660's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akp660)](https://holopin.io/@akp660)
+</p>
