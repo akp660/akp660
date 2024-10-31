@@ -20,7 +20,7 @@
 </table>
 
 
-
+<!--
 ### Languages and Tools
 <p align="center">
     <a href="https://developer.android.com" target="_blank">
@@ -69,7 +69,7 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40">
     </a>
 </p>
-
+-->
 ---
 
 ### GitHub Stats
